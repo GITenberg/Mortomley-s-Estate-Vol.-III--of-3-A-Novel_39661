@@ -1,0 +1,33 @@
+_repo: Mortomley-s-Estate-Vol.-III--of-3-A-Novel_39661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Riddell, J. H., Mrs.
+    aliases:
+    - Riddell, Charlotte Eliza Lawson Cowan
+    - Riddell, Mrs. J. H.
+    - Trafford, F. G.
+    - Riddell, Charlotte Elizabeth L.
+    birthdate: 1832
+    deathdate: 1906
+    gutenberg_agent_id: '2824'
+    url: http://www.gutenberg.org/2009/agents/2824
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Riddell
+description: ''
+gutenberg_issued: '2012-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Bankruptcy -- Fiction'
+- !lcsh 'England -- Fiction'
+title: 'Mortomley''s Estate: A Novel. Vol. 3 (of 3)'
+url: http://www.gutenberg.org/ebooks/39661
